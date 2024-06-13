@@ -9,11 +9,11 @@ several arguments to perform operations on an SQLite database.
 
 ## How to Use
 
-Navigate to the directory containing `main.py` in your terminal, then run it 
+Navigate to the directory containing `app.py` in your terminal, then run it 
 using Python 3 like so:
 
 ```shell
-python3 main.py <argument>
+python3 app.py <argument>
 ```
 
 ### Arguments
